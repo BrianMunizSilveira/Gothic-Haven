@@ -42,5 +42,3 @@
 ## Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
-
-&copy; 2024 Gothic Haven. Todos os direitos reservados.
